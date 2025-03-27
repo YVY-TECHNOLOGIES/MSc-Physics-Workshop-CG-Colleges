@@ -1,0 +1,1 @@
+"Resources and software for Circuit Simulation & PCB Design, shared in the M.Sc. Physics Workshop at Govt. J. Yoganandam Chhattisgarh College, Govt. Pt. Shyamacharan Shukla College (Dharsiwa), and Govt. Dudhdhari Bajrang Girls' PG Autonomous College."
